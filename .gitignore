@@ -17,3 +17,5 @@ __pycache__/
 
 calc/*
 !calc/test_homework.py
+
+pytest.ini
